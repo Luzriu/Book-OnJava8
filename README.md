@@ -4,7 +4,7 @@
 
 ## 示例代码
 
-[OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples)
+[OnJava8-Examples](https://github.com/Luzriu/OnJava8-Examples)
 
 ## 目录
 
